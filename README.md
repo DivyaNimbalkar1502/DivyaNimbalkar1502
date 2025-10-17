@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">👋 Hi, I'm Divya Nimbalkar</h1>
 
 <p align="center">
@@ -58,8 +58,9 @@ Here are a few of my favorite creations 👇
 | Project | Description |
 |----------|--------------|
 | 🌦️ **Weather Forecasting App** | Get real-time weather updates & news — built with OpenWeather API + modern UI. |
-| 🏠 **Airbnb Clone (MERN Stack)** | A full-stack Airbnb-style web app with CRUD, authentication, and map integration. |
+| 🏠 **Airbnb Clone (MERN Stack)** | A full-stack Airbnb-style web app with CRUD, authentication. |
 | 🎮 **Simon Says Game** | A fun memory game built using HTML, CSS, and JavaScript. |
+| 🎮 **SpotifyClone** |  A responsive webpage built using HTML,CSS |
 
 ---
 
