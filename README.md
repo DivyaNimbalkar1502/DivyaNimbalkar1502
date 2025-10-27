@@ -74,7 +74,7 @@ Here are a few of my favorite creations 👇
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="www.linkedin.com/in/divya-nimbalkar-abc150203" target="_blank">
+  <a href="(https://www.linkedin.com/in/divya-nimbalkar-890201280)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
