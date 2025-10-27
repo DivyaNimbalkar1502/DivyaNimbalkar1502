@@ -49,7 +49,7 @@ Always open to learning, collaborating, and building something impactful 🚀
 
 ### 🚀 Projects
 Here are a few of my favorite creations 👇  
-(*Click on the project name to visit — you can add links later!*)
+
 
 | Project | Description |
 |----------|--------------|
