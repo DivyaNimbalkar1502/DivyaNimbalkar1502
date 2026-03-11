@@ -48,7 +48,8 @@ Always open to learning, collaborating, and building something impactful 🚀
 ---
 
 ### 🚀 Projects
-Here are  my favorite creations 👇  
+Here are my some collections
+ 👇  
 
 
 | Project | Description |
