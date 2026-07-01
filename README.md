@@ -4,9 +4,12 @@
 ---
 
 ### 🌟 About Me
-I’m a passionate developer who loves creating modern, responsive, and user-focused web applications.  
-Currently exploring advanced concepts in the **MERN stack** and working on projects that combine creativity with functionality.  
-Always open to learning, collaborating, and building something impactful 🚀  
+Backend Developer with a strong foundation in designing, developing, and deploying scalable server-side applications. Experienced in building RESTful APIs using frameworks like Django and Spring Boot, with a focus on clean architecture and performance optimization. Skilled in working with databases such as MySQL and PostgreSQL, and integrating third-party services.
+
+Passionate about writing efficient, maintainable code and solving real-world problems through backend systems. Hands-on experience with cloud platforms like AWS (EC2, S3) and version control using Git. Continuously learning and exploring new technologies, including Generative AI and data engineering concepts.
+
+Open to collaboration and opportunities to contribute to impactful backend projects.
+
 
 ---
 
